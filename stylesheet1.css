@@ -1,0 +1,88 @@
+.slider{
+    min-height: 505px;
+    background-image: url(sliderbg.jpg);
+    background-size: cover;
+    width: 100%;
+}
+.navbar{
+    background-color: transparent;
+    border: none;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+.main_menu{
+    margin-left: 23%;
+    font-size: 12pt;
+}
+.menu_cont{
+    margin-top: 60px;
+    font-weight: bold;
+}
+.about_us{
+    min-height: 498px;
+    background-image: url(aboutus_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about_tattoo{
+    background-color: #f2efe5;
+    min-height: 498px;
+}
+.no_padding{
+    padding-left: 0;
+    padding-right: 0;
+}
+.no_margin{
+    margin: 0;
+}
+.no_left{
+    padding-left: 0;
+    margin-left: 0;
+}
+.no_right{
+    padding-right: 0;
+    margin-right: 0;
+}
+.about_us{
+    position: relative;
+}
+.about_us_wriiten{position: absolute;
+        top: 209px;
+    left: 248px;
+    min-height: 87px;
+    width: 260px;
+    border: 7px solid black;
+    text-align: center;
+    font-size: 20pt;
+    padding-top:18px;
+    
+}
+.gal_img{
+    width: 100%;
+}
+.quote{
+    width: 100%;
+    
+}
+.about_tattoo{
+    padding-top: 120px;
+}
+
+.sub_form{
+    min-height: 505px;
+    position: relative;
+}
+.form_body{
+        position: absolute;
+    top: 139px;
+    left: 123px;
+}
+.conti{
+    min-height: 900px;
+    background-color: #e7e5d0;
+    padding: 11%;
+}
+
+
